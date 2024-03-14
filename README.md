@@ -10,7 +10,7 @@
 Here you can find all the fonts that Apple uses for their systems, including iOS, WatchOS, iPadOS and tvOS.
 They will enable you to design user interfaces on all platforms, Windows, Linux and Mac.
 
-**If you want to see more of San Francisco, you can go [here](https://github.com/chevillardanael/San-Francisco-SF-Apple-Font/)**
+**Vous pouvez télécharger la police San Francisco (SF), you can go [here](https://github.com/chevillardanael/San-Francisco-SF-Apple-Font/)**
 
 **Here you'll find only New York (NY) and its variants.**
 
