@@ -16,7 +16,7 @@ They will enable you to design user interfaces on all platforms, Windows, Linux 
 
 ## Sommaire
 
-- [Go to release](https://github.com/shidos-anael/NewYork-NY-Apple-Font/releases)
+- [Go to release](https://github.com/chevillardanael/NewYork-NY-Apple-Font/releases)
 - Download the latest version
 - Once downloaded
   - Unzip the zip
